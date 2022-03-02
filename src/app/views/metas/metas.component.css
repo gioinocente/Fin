@@ -1,0 +1,13 @@
+p{
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: monospace;
+    color: rgb(7, 145, 209);
+    text-align: center;
+}
+
+.icon{
+    height: 20px;
+    width: 20px;
+}
